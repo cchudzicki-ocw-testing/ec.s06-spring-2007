@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: Demining armour.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/5ae2e377fe78c4640fd3c0c54a2f808c_ppe06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: ppe06.jpg
+uid: 5ae2e377-fe78-c464-0fd3-c0c54a2f808c
 ---
-Demining probes.
+Demining armour.

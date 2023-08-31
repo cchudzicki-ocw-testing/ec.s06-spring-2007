@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: Fragmentation protective vest.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/a19490ca4dd2ffb3b1c52afeb50345f7_ppe03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: ppe03.jpg
+uid: a19490ca-4dd2-ffb3-b1c5-2afeb50345f7
 ---
-Demining probes.
+Fragmentation protective vest.

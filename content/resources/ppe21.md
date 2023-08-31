@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: Blast tested equipment.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/b290da7504bad6a9d6a5cdb572aa44ad_ppe21.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: ppe21.jpg
+uid: b290da75-04ba-d6a9-d6a5-cdb572aa44ad
 ---
-Demining probes.
+Blast tested equipment.
