@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: Student performing manual prong search.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/de7c5758ca108b81c40ac872bfa59dc9_trial07.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: trial07.jpg
+uid: de7c5758-ca10-8b81-c40a-c872bfa59dc9
 ---
-Demining probes.
+Student performing manual prong search.

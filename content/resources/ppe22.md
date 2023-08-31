@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: Deminers tool set.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/0e9be8cc0c8d9e0a64931f526558ba68_ppe22.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: ppe22.jpg
+uid: 0e9be8cc-0c8d-9e0a-6493-1f526558ba68
 ---
-Demining probes.
+Deminers tool set.

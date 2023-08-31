@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: MIT class testing MIT tools.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/7a7d68b661365c1932efa5761dbfd7b5_mittool01.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: mittool01.jpg
+uid: 7a7d68b6-6136-5c19-32ef-a5761dbfd7b5
 ---
-Demining probes.
+MIT class testing MIT tools.

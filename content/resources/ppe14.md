@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: Metal detectors.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/2c2521973d73b4e955172c40f007ddd6_ppe14.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: ppe14.jpg
+uid: 2c252197-3d73-b4e9-5517-2c40f007ddd6
 ---
-Demining probes.
+Metal detectors.

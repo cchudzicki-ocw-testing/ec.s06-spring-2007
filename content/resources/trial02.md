@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Demining probes.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/f5578e2ad54fcba7c3c81f4b95e8586b_ppe16.jpg
+description: Andrew.
+file: /media/courses/ec-s06-design-for-demining-spring-2007/6796f76019e8c3e615a07d8d941c9bff_trial02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -14,7 +14,7 @@ parent_title: Class Trip
 parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
-title: ppe16.jpg
-uid: f5578e2a-d54f-cba7-c3c8-1f4b95e8586b
+title: trial02.jpg
+uid: 6796f760-19e8-c3e6-15a0-7d8d941c9bff
 ---
-Demining probes.
+Andrew.
