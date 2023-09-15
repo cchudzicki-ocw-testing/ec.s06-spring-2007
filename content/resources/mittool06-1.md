@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Student testing out MIT pick prod. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/7d0b987505e63b0112d62efc60f640d7_mittool06.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/7d0b987505e63b0112d62efc60f640d7_mittool06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Student testing out MIT pick prod.

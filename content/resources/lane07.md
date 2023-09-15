@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Marker. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/016e2224d5b7e02216313179a30b2301_lane07.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/016e2224d5b7e02216313179a30b2301_lane07.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Marker.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Demining dog with handler. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/845f8bd05c643f8b3e46fe754a8b5ee1_dog05.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/845f8bd05c643f8b3e46fe754a8b5ee1_dog05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Demining dog with handler.

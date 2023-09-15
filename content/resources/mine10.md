@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Emplaced mine. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/30a4ef759240822f38d1392db93f1683_mine10.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/30a4ef759240822f38d1392db93f1683_mine10.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Emplaced mine.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Close up of a demolition wired mortar. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/0b317e9c949f82bbce87aaa39c5d2fd8_mine19.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/0b317e9c949f82bbce87aaa39c5d2fd8_mine19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Close up of a demolition wired mortar.

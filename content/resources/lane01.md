@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Afghanistan marking system. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/fd27191d47f7029a3f987526e83d9d2a_lane01.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/fd27191d47f7029a3f987526e83d9d2a_lane01.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Afghanistan marking system.

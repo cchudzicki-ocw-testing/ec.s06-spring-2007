@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'X-rays of metal fuzes. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/5b5a11ebc4f22c625104873fe7d8b0f6_disp12.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/5b5a11ebc4f22c625104873fe7d8b0f6_disp12.jpg
 file_type: image/jpeg
 image_metadata:
   caption: X-rays of metal fuzes.

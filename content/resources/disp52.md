@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'TM-57 mine. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/8ec74c4205483a4c9b0851b67f33cc92_disp52.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/8ec74c4205483a4c9b0851b67f33cc92_disp52.jpg
 file_type: image/jpeg
 image_metadata:
   caption: TM-57 mine.

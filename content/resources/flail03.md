@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Mini flail hammers spinning. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/78d6fa3c4963d212565310fdbb913654_flail03.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/78d6fa3c4963d212565310fdbb913654_flail03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Mini flail hammers spinning.

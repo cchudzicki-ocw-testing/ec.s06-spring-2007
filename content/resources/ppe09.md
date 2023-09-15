@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Novel foot protection system evaluation board.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/c4c28564e16ed7a19859c2ea1d0936c6_ppe09.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/c4c28564e16ed7a19859c2ea1d0936c6_ppe09.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

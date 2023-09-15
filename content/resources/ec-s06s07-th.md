@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Two examples of demining tools in use. Photo by Andrew Heafitz. Right:
   Photo courtesy of Andy Smith, used with permission.'
-file: /media/courses/ec-s06-design-for-demining-spring-2007/9a8d472f2858b081c077db51dd05914a_ec-s06s07-th.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/9a8d472f2858b081c077db51dd05914a_ec-s06s07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "MIT student testing a trenching tool during the development process (left),\

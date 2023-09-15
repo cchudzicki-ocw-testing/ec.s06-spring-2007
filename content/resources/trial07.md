@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student performing manual prong search.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/de7c5758ca108b81c40ac872bfa59dc9_trial07.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/de7c5758ca108b81c40ac872bfa59dc9_trial07.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Booby traps. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/468fed14a7d46ea5b3bcef2aa828bb65_disp42.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/468fed14a7d46ea5b3bcef2aa828bb65_disp42.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Booby traps.

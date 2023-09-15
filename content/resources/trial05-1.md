@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT class trying out manual demining techniques. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/e3f560fe3f2033f23566aa89cc38d513_trial05.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/e3f560fe3f2033f23566aa89cc38d513_trial05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: MIT class trying out manual demining techniques.

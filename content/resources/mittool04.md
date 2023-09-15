@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Digging a hole in rocky ground.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/3133fa9e2856eabfeb1e6a9624e97dcc_mittool04.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/3133fa9e2856eabfeb1e6a9624e97dcc_mittool04.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

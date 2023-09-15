@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Manual demining demonstration. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/58db96c1eabbb984b78d83f1deb8f15a_demo02.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/58db96c1eabbb984b78d83f1deb8f15a_demo02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Manual demining demonstration.

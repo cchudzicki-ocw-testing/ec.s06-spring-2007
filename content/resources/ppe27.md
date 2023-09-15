@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Basic demining tool kit.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/055a4135231d1670d48a1c73be7d1435_ppe27.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/055a4135231d1670d48a1c73be7d1435_ppe27.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

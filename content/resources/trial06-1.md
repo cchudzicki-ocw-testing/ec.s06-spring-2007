@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Demining gear. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/8f5a03f4dfdd3b8c54929d4a4b8930b1_trial06.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/8f5a03f4dfdd3b8c54929d4a4b8930b1_trial06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Demining gear.

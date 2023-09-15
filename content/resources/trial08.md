@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student probing.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/dc6843e9fb9559d3f9e7b8f72fe8740b_trial08.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/dc6843e9fb9559d3f9e7b8f72fe8740b_trial08.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

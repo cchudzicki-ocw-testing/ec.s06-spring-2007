@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Custom tool kit
-file: /media/courses/ec-s06-design-for-demining-spring-2007/e9499bf967772ea099467a3d70e2d2a8_ppe25.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/e9499bf967772ea099467a3d70e2d2a8_ppe25.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

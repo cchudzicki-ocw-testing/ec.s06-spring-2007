@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Fragment. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/a7665fbab398476a81097b897c812d9d_disp18.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/a7665fbab398476a81097b897c812d9d_disp18.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Fragment.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Mozambique marking system. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/96b470336120cdf007a3a54ab532bf03_lane05.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/96b470336120cdf007a3a54ab532bf03_lane05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Mozambique marking system.

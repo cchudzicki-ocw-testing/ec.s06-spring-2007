@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Demolition wired mortar. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/e16cb057b7631bb0d523a3609d8126cc_mine18.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/e16cb057b7631bb0d523a3609d8126cc_mine18.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Demolition wired mortar.

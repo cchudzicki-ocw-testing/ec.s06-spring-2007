@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Student excavating. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/b4dc3405abe80bedc526fbbebc54efd4_trial09.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b4dc3405abe80bedc526fbbebc54efd4_trial09.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Student excavating.
